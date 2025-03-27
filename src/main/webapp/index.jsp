@@ -1,5 +1,5 @@
 <html>
 <body>
-	<h2>Welcome to NCPL  DEVOPS from CICD pipeline for Jenkins <h2>
+	<h2>Welcome to NCPL  DEVOPS from CICD pipeline for Jenkins pipeline <h2>
 </body>
 </html>
